@@ -1,3 +1,0 @@
-C:/Users/magol/CLionProjects/FlujoC++/Ejercicio3/cmake-build-debug/CMakeFiles/Ejercicio3.dir
-C:/Users/magol/CLionProjects/FlujoC++/Ejercicio3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/magol/CLionProjects/FlujoC++/Ejercicio3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
